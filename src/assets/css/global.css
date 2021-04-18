@@ -1,0 +1,56 @@
+html,
+body,
+#app{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.el-breadcrumb{
+  margin-bottom: 20px;
+}
+.el-table{
+  margin-top: 20px;
+}
+.el-pagination{
+  margin-top: 20px;
+}
+.el-container{
+  height: 100%;
+  margin-top: 0px;
+}
+.el-header{
+  background-color: #517FD3 ;
+  height: 61px !important;
+}
+.el-aside{
+  background-color:#FFFFFF;
+  width: 300px;
+}
+.el-main{
+  background-color:#E0E0E0;
+}
+.secondContainer{
+  margin-top: 10px !important;
+}
+.el-breadcrumb{
+  color: #000000;
+  font-size: 25px;
+}
+.el-row{
+  margin-bottom: 20px;
+}
+.toggleButton{
+  background-color: #77a2f1;
+  font-size: 10px;
+  line-height: 24px;
+  color: #FFFFFF;
+  text-align: center;
+  cursor: pointer;
+  letter-spacing: 0.2em;
+}
+.secondContainer{
+  margin-top: 0 !important;
+}
+.el-menu.el-menu--horizontal {
+  border-bottom: solid 0px #e6e6e6;
+}
